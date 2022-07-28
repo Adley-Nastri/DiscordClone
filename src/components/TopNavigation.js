@@ -15,14 +15,14 @@ const TopNavigation = () => {
     return (
 
         <div className="top-navigation fixed max-w-screen">
-            <HashtagIcon/>
-            <Title/>
-            <BellIcon/>
-            <Pin/>
-            <Members/>
-            <Search/>
-            <Inbox/>
-            <Help/>
+            <HashtagIcon />
+            <Title />
+            <BellIcon />
+            <Pin />
+            <Members />
+            <Search />
+            <Inbox />
+            <Help />
         </div>
 
     )
